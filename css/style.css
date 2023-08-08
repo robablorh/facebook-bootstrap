@@ -1,0 +1,96 @@
+body{
+
+	background-color: #ebe9f7;
+}
+
+.col1{
+    
+	padding-left: 3rem;
+}
+
+.col1 h1{
+
+	color: #1877f2;
+
+	padding-top: 12rem;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.col1 h3{
+
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.col2 form{
+
+    padding-top: 1rem;
+    margin-left: 1rem;
+}
+
+.in1{
+	width:332px ;
+	height:50px ;
+	border-radius: 7px;
+    border-color: lightgrey;
+    border-width: thin
+}
+
+.in2{
+	margin-top: 1rem;
+	width:332px ;
+	height:50px ;
+	border-radius: 7px;
+	border-color: lightgrey;
+    border-width: thin
+}
+.btn1{
+	width: 332px;
+	height: 50px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border-radius: 7px;
+	background-color: #1877f2;
+	border-style: none;
+	color: white;
+	font-weight: bold;
+}
+.btn2{
+	margin-top: 1rem;
+	width: 200px;
+	height: 50px;
+	border-radius: 7px;
+	background-color: #42b72a;
+	border-style: none;
+	margin-left: 4rem;
+	color: white;
+	font-weight: bold;
+}
+
+.sm{
+	padding-left: 6rem;
+}
+
+.back{
+	height: 360px;
+	width: 362px;
+	background-color: white;
+	border-radius: 8px;
+	margin-top: 9rem;
+}
+
+.p{
+	padding-top: 2rem;
+	font-size: 13px;
+	padding-left: 3rem;
+}
+
+.p a{
+	color: black;
+	font-weight: bold;
+}
+
